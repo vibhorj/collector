@@ -1,0 +1,2 @@
+# collector
+Collect events.
